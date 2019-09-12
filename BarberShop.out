@@ -1,0 +1,271 @@
+
+                                      ARENA Simulation Results
+                                     omerfarukkoc42@hotmail.com
+
+                                  Summary for Replication 1 of 100
+
+Project: Unnamed Project                                             Run execution date : 5/24/2018
+Analyst: omerfarukkoc42@hotmail.com                                  Model revision date: 5/24/2018
+
+Replication ended at time      : 720.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tallyrecord                                 367.84     (Insuf)    45.031     693.83         17    
+Walk in customers.VATime                    53.325     (Insuf)    .00000     94.812         14    
+Walk in customers.NVATime                   .00000     (Insuf)    .00000     .00000         14    
+Walk in customers.WaitTime                  70.113     (Insuf)    .00000     121.82         14    
+Walk in customers.TranTime                  .00000     (Insuf)    .00000     .00000         14    
+Walk in customers.OtherTime                 .00000     (Insuf)    .00000     .00000         14    
+Walk in customers.TotalTime                 123.43     (Insuf)    .00000     199.05         14    
+Check in Customers.VATime                   37.798     (Insuf)    .00000     63.189          8    
+Check in Customers.NVATime                  .00000     (Insuf)    .00000     .00000          8    
+Check in Customers.WaitTime                 34.089     (Insuf)    .00000     83.214          8    
+Check in Customers.TranTime                 .00000     (Insuf)    .00000     .00000          8    
+Check in Customers.OtherTime                .00000     (Insuf)    .00000     .00000          8    
+Check in Customers.TotalTime                71.887     (Insuf)    .00000     125.24          8    
+Styling Process.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000         17    
+Shampoo Process.Queue.WaitingTime           1.4998     (Insuf)    .00000     13.819         33    
+Cutting Process.Queue.WaitingTime           80.806     (Insuf)    .00000     172.69         19    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Walk in customers.WIP                       3.2679     (Insuf)    .00000     6.0000     4.0000    
+Check in Customers.WIP                      1.1038     (Insuf)    .00000     3.0000     2.0000    
+Styling Staff.NumberBusy                    .12800     (Insuf)    .00000     1.0000     .00000    
+Styling Staff.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Styling Staff.Utilization                   .12800     (Insuf)    .00000     1.0000     .00000    
+Shampoo Staff 1.NumberBusy                  .45761     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 1.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Shampoo Staff 1.Utilization                 .45761     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 2.NumberBusy                  .45761     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 2.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Shampoo Staff 2.Utilization                 .45761     (Insuf)    .00000     1.0000     1.0000    
+Barber1.NumberBusy                          1.0000     (Insuf)    .00000     1.0000     1.0000    
+Barber1.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Barber1.Utilization                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Styling Process.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+Shampoo Process.Queue.NumberInQueue         .06874     (Insuf)    .00000     2.0000     .00000    
+Cutting Process.Queue.NumberInQueue         2.7173     (Insuf)    .00000     5.0000     4.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Styling Count                                    17  Infinite
+Shampoo Count                                    32  Infinite
+Cutting Count                                    18  Infinite
+Waiting                                          11  Infinite
+No Waiting                                       12  Infinite
+System Out Count                                 17  Infinite
+Lost Customer                                     5  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Walk in customers.NumberIn                  18.000    
+Walk in customers.NumberOut                 14.000    
+Check in Customers.NumberIn                 10.000    
+Check in Customers.NumberOut                8.0000    
+Styling Staff.NumberSeized                  17.000    
+Styling Staff.ScheduledUtilization          .12800    
+Shampoo Staff 1.NumberSeized                33.000    
+Shampoo Staff 1.ScheduledUtilization        .45761    
+Shampoo Staff 2.NumberSeized                33.000    
+Shampoo Staff 2.ScheduledUtilization        .45761    
+Barber1.NumberSeized                        19.000    
+Barber1.ScheduledUtilization                1.0000    
+System.NumberOut                            22.000    
+
+Beginning replication 2 of 100
+
+                                      ARENA Simulation Results
+                                     omerfarukkoc42@hotmail.com
+
+                                  Summary for Replication 2 of 100
+
+Project: Unnamed Project                                             Run execution date : 5/24/2018
+Analyst: omerfarukkoc42@hotmail.com                                  Model revision date: 5/24/2018
+
+Replication ended at time      : 720.0 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tallyrecord                                 372.45     (Insuf)    70.780     689.99         16    
+Walk in customers.VATime                    61.480     (Insuf)    .00000     87.325         11    
+Walk in customers.NVATime                   .00000     (Insuf)    .00000     .00000         11    
+Walk in customers.WaitTime                  94.027     (Insuf)    .00000     144.68         11    
+Walk in customers.TranTime                  .00000     (Insuf)    .00000     .00000         11    
+Walk in customers.OtherTime                 .00000     (Insuf)    .00000     .00000         11    
+Walk in customers.TotalTime                 155.50     (Insuf)    .00000     220.33         11    
+Check in Customers.VATime                   46.770     (Insuf)    .00000     70.780          7    
+Check in Customers.NVATime                  .00000     (Insuf)    .00000     .00000          7    
+Check in Customers.WaitTime                 64.382     (Insuf)    .00000     134.73          7    
+Check in Customers.TranTime                 .00000     (Insuf)    .00000     .00000          7    
+Check in Customers.OtherTime                .00000     (Insuf)    .00000     .00000          7    
+Check in Customers.TotalTime                111.15     (Insuf)    .00000     178.66          7    
+Styling Process.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000         16    
+Shampoo Process.Queue.WaitingTime           1.0104     (Insuf)    .00000     10.875         31    
+Cutting Process.Queue.WaitingTime           98.118     (Insuf)    .00000     151.87         18    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Walk in customers.WIP                       2.9938     (Insuf)    .00000     6.0000     4.0000    
+Check in Customers.WIP                      1.6148     (Insuf)    .00000     4.0000     3.0000    
+Styling Staff.NumberBusy                    .11532     (Insuf)    .00000     1.0000     .00000    
+Styling Staff.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Styling Staff.Utilization                   .11532     (Insuf)    .00000     1.0000     .00000    
+Shampoo Staff 1.NumberBusy                  .41775     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 1.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Shampoo Staff 1.Utilization                 .41775     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 2.NumberBusy                  .41775     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 2.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Shampoo Staff 2.Utilization                 .41775     (Insuf)    .00000     1.0000     1.0000    
+Barber1.NumberBusy                          1.0000     (Insuf)    .00000     1.0000     1.0000    
+Barber1.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Barber1.Utilization                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Styling Process.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+Shampoo Process.Queue.NumberInQueue         .04351     (Insuf)    .00000     1.0000     .00000    
+Cutting Process.Queue.NumberInQueue         3.0321     (Insuf)    .00000     7.0000     5.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Styling Count                                    16  Infinite
+Shampoo Count                                    30  Infinite
+Cutting Count                                    17  Infinite
+Waiting                                          19  Infinite
+No Waiting                                        4  Infinite
+System Out Count                                 16  Infinite
+Lost Customer                                     2  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Walk in customers.NumberIn                  15.000    
+Walk in customers.NumberOut                 11.000    
+Check in Customers.NumberIn                 10.000    
+Check in Customers.NumberOut                7.0000    
+Styling Staff.NumberSeized                  16.000    
+Styling Staff.ScheduledUtilization          .11532    
+Shampoo Staff 1.NumberSeized                31.000    
+Shampoo Staff 1.ScheduledUtilization        .41775    
+Shampoo Staff 2.NumberSeized                31.000    
+Shampoo Staff 2.ScheduledUtilization        .41775    
+Barber1.NumberSeized                        18.000    
+Barber1.ScheduledUtilization                1.0000    
+System.NumberOut                            18.000    
+
+Beginning replication 3 of 100
+SIMAN Run Controller.
+
+333.75387 Minutes>
+                                      ARENA Simulation Results
+                                     omerfarukkoc42@hotmail.com
+
+                                  Summary for Replication 3 of 100
+
+Project: Unnamed Project                                             Run execution date : 5/24/2018
+Analyst: omerfarukkoc42@hotmail.com                                  Model revision date: 5/24/2018
+
+Replication ended at time      : 333.75387 Minutes 
+Base Time Units: Minutes
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Tallyrecord                                 190.44     (Insuf)    50.722     324.86          8    
+Walk in customers.VATime                    41.462     (Insuf)    .00000     69.879          6    
+Walk in customers.NVATime                   .00000     (Insuf)    .00000     .00000          6    
+Walk in customers.WaitTime                  69.794     (Insuf)    .00000     160.38          6    
+Walk in customers.TranTime                  .00000     (Insuf)    .00000     .00000          6    
+Walk in customers.OtherTime                 .00000     (Insuf)    .00000     .00000          6    
+Walk in customers.TotalTime                 111.25     (Insuf)    .00000     224.45          6    
+Check in Customers.VATime                   44.921     (Insuf)    .00000     71.277          5    
+Check in Customers.NVATime                  .00000     (Insuf)    .00000     .00000          5    
+Check in Customers.WaitTime                 56.857     (Insuf)    .00000     126.82          5    
+Check in Customers.TranTime                 .00000     (Insuf)    .00000     .00000          5    
+Check in Customers.OtherTime                .00000     (Insuf)    .00000     .00000          5    
+Check in Customers.TotalTime                101.77     (Insuf)    .00000     186.63          5    
+Styling Process.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000          9    
+Shampoo Process.Queue.WaitingTime           .93066     (Insuf)    .00000     11.659         16    
+Cutting Process.Queue.WaitingTime           103.42     (Insuf)    .00000     174.14         10    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Walk in customers.WIP                       2.9840     (Insuf)    .00000     4.0000     3.0000    
+Check in Customers.WIP                      2.2982     (Insuf)    .00000     4.0000     2.0000    
+Styling Staff.NumberBusy                    .11783     (Insuf)    .00000     1.0000     1.0000    
+Styling Staff.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Styling Staff.Utilization                   .11783     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 1.NumberBusy                  .45345     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 1.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Shampoo Staff 1.Utilization                 .45345     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 2.NumberBusy                  .45345     (Insuf)    .00000     1.0000     1.0000    
+Shampoo Staff 2.NumberScheduled             1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Shampoo Staff 2.Utilization                 .45345     (Insuf)    .00000     1.0000     1.0000    
+Barber1.NumberBusy                          1.0000     (Insuf)    .00000     1.0000     1.0000    
+Barber1.NumberScheduled                     1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Barber1.Utilization                         1.0000     (Insuf)    .00000     1.0000     1.0000    
+Styling Process.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+Shampoo Process.Queue.NumberInQueue         .04462     (Insuf)    .00000     2.0000     .00000    
+Cutting Process.Queue.NumberInQueue         3.6663     (Insuf)    .00000     5.0000     2.0000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Styling Count                                     8  Infinite
+Shampoo Count                                    15  Infinite
+Cutting Count                                     9  Infinite
+Waiting                                           9  Infinite
+No Waiting                                        4  Infinite
+System Out Count                                  8  Infinite
+Lost Customer                                     3  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Walk in customers.NumberIn                  9.0000    
+Walk in customers.NumberOut                 6.0000    
+Check in Customers.NumberIn                 7.0000    
+Check in Customers.NumberOut                5.0000    
+Styling Staff.NumberSeized                  9.0000    
+Styling Staff.ScheduledUtilization          .11783    
+Shampoo Staff 1.NumberSeized                16.000    
+Shampoo Staff 1.ScheduledUtilization        .45345    
+Shampoo Staff 2.NumberSeized                16.000    
+Shampoo Staff 2.ScheduledUtilization        .45345    
+Barber1.NumberSeized                        10.000    
+Barber1.ScheduledUtilization                1.0000    
+System.NumberOut                            11.000    
+

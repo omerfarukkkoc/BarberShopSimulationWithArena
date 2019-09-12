@@ -1,0 +1,17 @@
+Fit All
+
+Document:  D:\DERS DOKÜMANLARI\4-YÜKSEK LÝSANS\1-2018\4-Simulation\FinalProject[24.05.2018]\1-CustomerWalkinInterarrivalTime.txt
+Data File: D:\DERS DOKÜMANLARI\4-YÜKSEK LÝSANS\1-2018\4-Simulation\FinalProject[24.05.2018]\1-CustomerWalkinInterarrivalTime.txt
+
+
+Function       Sq Error
+-----------------------
+Beta           0.00685
+Uniform        0.02
+Weibull        0.0337
+Gamma          0.0345
+Exponential    0.0364
+Erlang         0.0364
+Triangular     0.056
+Lognormal      0.0567
+Normal         0.058

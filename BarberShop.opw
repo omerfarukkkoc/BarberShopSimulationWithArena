@@ -1,0 +1,15 @@
+[RESOURCES]
+Styling Staff
+Shampoo Staff 1
+Shampoo Staff 2
+Barber1
+[VARIABLES]
+Shampoo Process.NumberOut
+Styling Process.NumberOut
+Cutting Process.NumberIn
+Styling Process.NumberIn
+Customer Arrive Online Check in.NumberOut
+Shampoo Process.NumberIn
+Exit.NumberOut
+Customer Arrive Walk in.NumberOut
+Cutting Process.NumberOut

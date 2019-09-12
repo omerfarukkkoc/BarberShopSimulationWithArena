@@ -1,0 +1,36 @@
+
+	Distribution Summary
+
+Distribution:	Beta         
+Expression:	5 + 77 * BETA(0.638, 0.734)
+Square Error:	0.006847
+
+
+Kolmogorov-Smirnov Test
+  Test Statistic	= 0.0907
+  Corresponding p-value	> 0.15
+
+	Data Summary
+
+Number of Data Points	= 10
+Min Data Value       	= 5.57
+Max Data Value       	= 81
+Sample Mean          	= 40
+Sample Std Dev       	= 26.2
+
+	Histogram Summary
+
+Histogram Range    	= 5 to 82
+Number of Intervals	= 5
+
+
+==================================================================
+Int.   No. of               Probability           Cumulative      
+No.    Data Pts.   x        Density               Distribution    
+------------------------------------------------------------------
+                            Data   Function       Data   Function   
+   0     3       20.4      0.300      0.320      0.300      0.320
+   1     2       35.8      0.200      0.176      0.500      0.496
+   2     1       51.2      0.100      0.159      0.600      0.656
+   3     2       66.6      0.200      0.162      0.800      0.818
+   4     2       82.0      0.200      0.230       1.00       1.05
